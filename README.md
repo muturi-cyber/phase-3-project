@@ -5,7 +5,9 @@
 ---
 
 Student’s name:         Daniel Muturi Karue
+
 Course:                 Data Science.
+
 Date:                   December 2024.
 
 ---
@@ -55,7 +57,7 @@ From the confusion matrix I was able to calculate and display:
 3.	Recall = 0.5902  
 4.	F1-score = 0.7422.
 This metrics from the confusion matrix was generated from the classification report
-![image link](http://localhost:8889/view/Screenshot%20(12)b.png)
+![image link](https://github.com/muturi-cyber/phase-3-project/blob/main/Screenshot%20(12)b.png)
 
 
 ![image link](http://localhost:8889/view/Screenshot%20(13).png)
