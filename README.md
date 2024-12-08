@@ -60,7 +60,7 @@ This metrics from the confusion matrix was generated from the classification rep
 ![image link](https://github.com/muturi-cyber/phase-3-project/blob/main/Screenshot%20(12)b.png)
 
 
-![image link](http://localhost:8889/view/Screenshot%20(13).png)
+![image link](https://github.com/muturi-cyber/phase-3-project/blob/main/Screenshot%20(13).png)
 
 ---
 
