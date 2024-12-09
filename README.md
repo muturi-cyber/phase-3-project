@@ -46,7 +46,7 @@ I combined the two dataframes the one hot encoded one and the normalized one. Ne
 
 First I begin by fitting a logistic regression to the preprocessed training set. Then I checked on the performance on the training data and our classifier was 87% correct on our training data. I then checked on the performance on testing data and this classifier was 87% accurate on our test data.
 I draw the ROC (receiver operating characteristic) curve and AUC (area under curve). The ROC graph allows us to determine optimal precision-recall tradeoff balances specific to the problem we want to solve. Then I plotted the visualization of the ROC curve.
-![image link](http://localhost:8889/view/Screenshot%20(10).png)
+![image link](https://github.com/muturi-cyber/phase-3-project/blob/main/Screenshot%20(10).png)
 
 For the Decision Tree I created the classifier and fitted it to the training data. I then plotted the decision tree and from the evaluation of the predictive performance the accuracy is 87%
 ![image link](https://github.com/muturi-cyber/phase-3-project/blob/main/Screenshot%20(14)b.png)
