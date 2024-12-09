@@ -49,7 +49,7 @@ I draw the ROC (receiver operating characteristic) curve and AUC (area under cur
 ![image link](http://localhost:8889/view/Screenshot%20(10).png)
 
 For the Decision Tree I created the classifier and fitted it to the training data. I then plotted the decision tree and from the evaluation of the predictive performance the accuracy is 87%
-![image link](http://localhost:8889/view/Screenshot%20(14)b.png)
+![image link](https://github.com/muturi-cyber/phase-3-project/blob/main/Screenshot%20(14)b.png)
 
 From the confusion matrix I was able to calculate and display:
 1.	Accuracy = 96%
@@ -78,6 +78,7 @@ The model performed well and it can be improved by including more data for examp
 Based on the evaluation, the company can reduce churn by having personalized offers to the high-risk customers for example having a discount on the charges on the day calls or the night calls.
 improve on customer service calls so as to get feedback from the high-risk customers on what challenges they are facing and, on the areas to pay more attention to.
 
+---
 
 ### DEPLOYMENT
 
